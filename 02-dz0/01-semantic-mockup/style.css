@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    color: #fff;
+  }
+  
+  header {
+    font-size: 30px;
+    background-color: #f00;
+    color: #fff;
+    text-align: center;
+  }
+  nav {
+    font-size: 20px;
+    padding: 30px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+
+  }
+  a {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+  }
+  main {
+    padding: 10px;
+    background-color: green;
+  }
+  article {
+    padding: 20px 10px;
+    background-color: blue;
+  }
+  footer {
+    background-color: rgb(201, 10, 201);
+    text-align: center;
+    font-size: 50px;
+  }
+  ul,
+  ol {
+    list-style-position: inside;
+    margin: 10px;
+  }
+  .two {
+    margin-top: 7px;
+  }
